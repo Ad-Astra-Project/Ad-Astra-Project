@@ -1,6 +1,6 @@
-- 👋 Hello World! I’m the director of @Wardlow-Labs;
+- 👋 Hello World! I’m the director of @Wardlow-Labs and a student of computer science, specializing in artificial intelligence;
 - 
-- 💫 Wardlow Labs is a blog and forum focusing on popularizing ESOL education within the STEM fields;
+- 💫 Wardlow Labs is a new blog and forum focusing on popularizing STEM education for ESOL individuals;
 - 👀 Developments within artificial general intelligence peak my interest;
 - 💞️ I am looking to collaborate with other users and organizations on meaningful open source projects related to human welfare and scientific advancement;
 - 
