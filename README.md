@@ -1,7 +1,8 @@
 - 👋 Hello World! I’m the director of @Wardlow-Labs;
-- 💫 Wardlow Labs is an online educational instituation which specializes in popularizing ESL education, technology, and the space sciences.
-- 👀 We're interested in developments within the space sciences, space travel, artificial intelligence, and machine learning;
-- 💞️ We're looking to collaborate on any projects related to the space sciences or artificial intelligence;
-
-- 📫 You can reach me by email or by our new forum: 
-- 🔗 https://www.ScholarsHaven.WardlowLabs.org
+- 
+- 💫 Wardlow Labs is a blog and forum focusing on popularizing ESOL education within the STEM fields;
+- 👀 Developments within artificial general intelligence peak my interest;
+- 💞️ I am looking to collaborate with other users and organizations on meaningful open source projects related to human welfare and scientific advancement;
+- 
+- 📫 You can reach me by email or via our new forum: 
+- 🔗 https://www.ScholarsHaven.WardlowLabs.org ;
