@@ -1,5 +1,3 @@
 - 👋 Hello World! I’m a consultant, educator, and ML engineer open to work with individuals and companies who develop beneficial AI systems!
-- 
-- 👀 Developments within artificial general intelligence peak my interest;
-- 
+- 👀 Developments within artificial general intelligence peak my interest as well!
 - 📫 Don't hesitate to reach out!
